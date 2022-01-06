@@ -18,5 +18,4 @@ Sou um designer em transição para o front-end. Estou em busca de uma oportunid
 <a href="https://api.whatsapp.com/send?phone=5551993669592" alt="WhatsApp">
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5551993669592"/></a> 
 
-
 [![dougDuarte](https://github-readme-stats.vercel.app/api/top-langs/?username=dougDuarte&hide=html&layout=compact&theme=default)](https://github.com/dougDuarte)
