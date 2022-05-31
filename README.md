@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-📖 Fortalecendo atualmente: <strong>HTML5 | CSS3 | JavaScript | Deploy</strong>
+📖 Fortalecendo atualmente: <strong>HTML5 | CSS3 | JavaScript</strong>
 </p>
 
 <p align="left">
