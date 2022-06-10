@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-✏️ Em breve vou estudar: <strong>React | MySQL</strong>
+✏️ Em breve vou estudar: <strong>React | Typescript</strong>
 </p>
 
 <p align="left">
