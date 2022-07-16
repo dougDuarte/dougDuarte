@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right" alt="Computador dougDuarte">
 
 <p align="left"> 
-<strong>Olá, meu nome é Douglas Duarte!</strong> Sou um designer em transição para o front-end, sempre entusiasta de tecnologia e estou em busca de uma oportunidade de estágio na área! Vamos conversar? :)
+<strong>Olá, meu nome é Douglas Duarte!</strong> Sou um designer em transição para o front-end, entusiasta de tecnologia e viciado em games. :)
 </p>
 
 <p align="left">
