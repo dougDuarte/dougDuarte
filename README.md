@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-📖 Fortalecendo atualmente: <strong>HTML5 | CSS3 | JavaScript</strong>
+📖 Fortalecendo atualmente: <strong>HTML5 | CSS3 | JavaScript | React</strong>
 </p>
 
 <p align="left">
-✏️ Em breve vou estudar: <strong>React | Typescript</strong>
+✏️ Em breve vou estudar: <strong>Java | Typescript</strong>
 </p>
 
 <p align="left">
