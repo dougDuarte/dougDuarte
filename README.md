@@ -5,15 +5,15 @@
 </p>
 
 <p align="left">
-📖 Fortalecendo atualmente: <strong>HTML5 | CSS3 | JavaScript | React</strong>
+📖 Conhecimento: <strong>Design | HTML5 | CSS3 | JavaScript | React | Java (básico)</strong>
 </p>
 
 <p align="left">
-✏️ Em breve vou estudar: <strong>Java | Typescript</strong>
+✏️ Estudando: <strong>TypeScript | Vue.JS</strong>
 </p>
 
 <p align="left">
-🛠️ Ferramentas mais usadas: <strong>Git | Figma | VSCode</strong>
+🛠️ Ferramentas mais usadas: <strong>VSCode | Git | Figma</strong>
 </p>
 
 <a href="https://www.linkedin.com/in/douglasdduarte" alt="Linkedin">
