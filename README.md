@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right" alt="Computador dougDuarte">
 
 <p align="left"> 
-<strong>Olá, meu nome é Douglas Duarte!</strong> Sou um designer em transição para o front-end, entusiasta de tecnologia e viciado em games. :)
+<strong>Olá, meu nome é Douglas Duarte!</strong> Sou um designer em transição para o front-end, entusiasta de tecnologia e viciado em games. (づ ◕‿◕ )づ
 </p>
 
 <p align="left">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-✏️ Estudando: <strong>TypeScript | Vue.JS</strong>
+✏️ Estudando: <strong>TypeScript | Vue.js</strong>
 </p>
 
 <p align="left">
