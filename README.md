@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-📖 Conhecimento: <strong>Design | HTML5 | CSS3 | JavaScript | React | Java (básico)</strong>
+📖 Conhecimento: <strong>Design | HTML5 | CSS3 | JavaScript | React | Java</strong>
 </p>
 
 <p align="left">
