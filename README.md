@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right" alt="Computador dougDuarte">
 
 <p align="left"> 
-<strong>Olá, sou o doug. Tenho paixão por participar de projetos dinâmicos e criativos. Meu foco está no desenvolvimento frontend, criando experiências fluidas que evoluem com base nos meus aprendizados diários. 
+<strong>Olá, sou o doug.</strong> Tenho paixão por participar de projetos dinâmicos e criativos. Meu foco está no desenvolvimento frontend, criando experiências fluidas que evoluem com base nos meus aprendizados diários. 
 </p>
 
 <p align="left">
