@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-✏️ Estudando: <strong>Angular | TypeScript</strong>
+✏️ Estudando: <strong>Angular | TypeScript | Unity</strong>
 </p>
 
 <p align="left">
